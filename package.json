@@ -1,0 +1,13 @@
+{
+  "name": "homework-47",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "board": "npm run build && node dist/board.js",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14",
+    "typescript": "^6.0.2"
+  }
+}
