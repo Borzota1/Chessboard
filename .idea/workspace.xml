@@ -41,7 +41,7 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "/Users/ruslan/Desktop/ControlWork-6/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,7 +61,7 @@
       <updated>1775855337647</updated>
       <workItem from="1775855338829" duration="481000" />
       <workItem from="1775885907357" duration="15672000" />
-      <workItem from="1776193571310" duration="3575000" />
+      <workItem from="1776193571310" duration="3910000" />
     </task>
     <servers />
   </component>
